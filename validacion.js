@@ -1,0 +1,1 @@
+let nom = document.querySelector('#nomb');
